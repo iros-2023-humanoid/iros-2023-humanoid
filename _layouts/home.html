@@ -1,0 +1,53 @@
+---
+layout: single 
+classes: wide
+
+
+---
+
+When one sees videos of recent robots achieving multi-contact manipulation or locomotion, one wonders why they are slow when they come to contacts? The main reason in all cases is simple: robots fear impacts. Unlike humans, most of the robots can not mitigate high impulse by design. Rather than being rigidly mounted on a fixed-base, under-actuated robots have to balance themselves using contacts that (i) can only provide unilateral supporting forces, (ii) include limited contact areas, e.g., a partial foothold, and (iii) can change over time. Thus to enable:
+<ul>
+  <li> swift motion while physically interacting with the environment with multiple complex impacts, 
+  <li> exploiting energetic contact transitions for robot manipulation and locomotion. 
+</ul> 
+We propose to bring the latest developments to answer specific questions on both hardware design and
+motion generation paradigms that include:
+
+ <ul>
+  <li><a href="/topics/collision-detection">How to perform timely impact/collision detection?</a></li>
+  <li><a href="/topics/fid">How to properly model the frictional impact dynamics?</a></li>
+  <li><a href="/topics/estimation">How to improve the floating-base state estimates?</a></li>
+  <li><a href="/topics/impactAwareHW">How to improve the hardware design to mitigate high external impulses?</a></li>
+  <li><a href="/topics/balance">How to balance the under-actuated floating-base while executing high dynamic motion?</a></li>
+  <li><a href="/topics/impactAwareControl">How to introduce impact-awareness to high dynamic motion control and planning?</a></li>
+</ul> 
+
+<h3>Live Streaming</h3>
+starts on June 4th, 09:00am (<a href="/program/">GMT+8 schedule</a>), that is 03:00am in (<a href="/program-cest/">CEST schedule</a>), and June 3rd, 06:00pm in (<a href="/program-pdt/">PDT schedule</a>). The workshop spans different time zones <a href="https://www.worldtimebuddy.com/?qm=1&lid=8,1816670,2988507,2643743&h=1816670&date=2021-6-4&sln=9-18&hf=1">here.</a>
+
+
+
+ 
+<hr/>
+<h5>蔻享学术 Koushare</h5>
+<iframe width="750" height="450" src="https://www.koushare.com/liveRoom/639521" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+
+<h5>YouTube</h5>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Tx6v0ye2KU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
