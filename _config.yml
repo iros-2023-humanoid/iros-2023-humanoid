@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" #"default" # "aqua", "air", "aqua", "contrast",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Reactive and Predictive Locomotor Control" 
+title                    : "Reactive and Predictive Whole-body Control" 
 title_separator          : "-"
 subtitle                 : from human to humanoids
 name                     : #"High Dynamic Motion Generation of Under-Actuated Robots"
