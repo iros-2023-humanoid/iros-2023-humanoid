@@ -8,13 +8,20 @@ author_profile: true
 title: "Floating-base state estimation"
 
 excerpt: "
-With the advent of more and more dynamic motions with increasing autonomy, humanoid state estimation is becoming more and more a key factor, and sometimes a limiting one. For instance, the HRP-4 stair climbing example by Caron et al. [1] is not possible without a proper estimator. Thus we need to explicit the recent development for higher estimation precision and new desired features.
-
+By accurately estimating the floating-base state, an MPC controller can generate optimized motion trajectories that are feasible and safe for the robot to execute.
 "
 
 ---
-With the advent of more and more dynamic motions with increasing autonomy, humanoid state estimation is becoming more and more a key factor, and sometimes a limiting one. For instance, the HRP-4 stair climbing example by Caron et al. [1] is not possible without a proper estimator. Thus we need to explicit the recent development for higher estimation precision and new desired features.
 
+Humanoid robots are not rigidly attached to the environment, they can move freely in space, making it difficult to determine the precise location and orientations. By accurately estimating the floating-base state, an MPC controller can generate optimized motion trajectories that are feasible and safe for the robot to execute. This is especially important when the robot is subjected to external disturbances, such as contact with the environment or other objects, or when the robot is operating on uneven or unstructured terrain.
 
-[1] Stéphane Caron, Abderrahmane Kheddar, and Olivier Tempier. Stair climbing stabilization of the hrp-4 humanoid robot using whole-body admittance control. In IEEE International Conference on Robotics and Automation, pages 277–283, 2019.
+Floating-base state estimation remains an open research question for several reasons:
+
+ * Noisy sensory data: The inertial measurement units (IMUs) suffer from significant drifts, and the vision data are blured due to task-purpose impacts, e.g., landing a supporting contact.
+
+ * Nonlinear and coupled dynamics: The dynamics of the base and the limbs of the robot are tightly coupled, which means that errors in the estimation of one component can have a significant impact on the estimation of the others.
+
+Addressing these challenges is critical for improving the accuracy and robustness of floating-base state estimation, and for enabling the development of effective control strategies for robotic systems.
+
+ 
 

@@ -5,21 +5,22 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "High dynamic balancing"
+title: "Balance control on uneven terrain"
 
 excerpt: "
-Despite the standing stability criterion for robots with co-planar contacts has been established for decades, i.e., restricting the ZMP within the support polygon, it is not clear how to define the standing stability margin when the robot executes high dynamic or impact motion.
+Uneven terrain can unpredictably and shift the robot’s center of mass and instantaneously re-distribute the feet forces. Thus, it is challenging balance while moving, and poor control design can lead to instability or even falls. 
 "
 
 ---
+Uneven terrain can unpredictably and shift the robot’s center of mass and instantaneously re-distribute the feet forces [1], [2]. Thus, it is challenging balance while moving, and poor control design can lead to instability or even falls. To achieve balance control over a prediction horizon, an effective combination of approximate model development, optimization, and efficient real-time computation implementation is required.
 
-Despite the standing stability criterion for robots with co-planar contacts has been established for decades, i.e., restricting the ZMP within the support polygon, it is not clear how to define the standing stability margin when the robot executes high dynamic or impact motion.
+The state-of-the-art balance control design relies on accurate state feedback, precise linearized models, and whole-body coordination. Due to the nonlinear and time-varying dynamics of humanoid robots, balance control design relies on nonlinear model predictive control (NMPC) and nonlinear control methods, which can incorporate system constraints. 
 
-Momentum-based control design has demonstrated convincing results for humanoid balancing, such as stabilizing with partial footholds by Wiedebach et al. [1]. Despite the achievements, the momentum-based control design is an active research field with open questions such as:
-
-  * What is the best control design to decouple the angular and linear momentum?
-  * For robots performing in-air motions, how to represent the momentum with respect to the earth, to its COM, and to its floating-base?
+However, several issues remain with NMPC, such as computation time, robustness, weight tuning, state estimation, and initial solution. These issues must be addressed to optimize the performance of NMPC in balance control.
 
 
-[1] Georg Wiedebach, Sylvain Bertrand, Tingfan Wu, Luca Fiorio, Stephen McCrory, Robert Griffin, Francesco Nori, and Jerry Pratt. Walking on partial footholds including line contacts with the humanoid robot atlas. In IEEE-RAS International Conference on Humanoid Robots, pages 1312–1319, 2016.
+
+[1] S. Samadi, J. Roux, A. Tanguy, S. Caron, and A. Kheddar, “Humanoid control under interchangeable fixed and sliding unilateral contacts,” IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 4032–4039, 2021.
+
+[2] B. Henze, M. A. Roa, and C. Ott, “Passivity-based whole-body balancing for torque-controlled humanoid robots in multi-contact scenarios,” The International Journal of Robotics Research, vol. 35, no. 12, pp. 1522–1543, 2016.
 
