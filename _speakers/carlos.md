@@ -1,6 +1,6 @@
 ---
 title: "Carlos Mastalli"
-excerpt: "Direct Centroidal Control for Balanced Humanoid Locomotion"
+excerpt: "Inverse-Dynamics Model Predictive Control"
 layout: single 
 classes: wide
 
