@@ -11,8 +11,7 @@ classes: wide
 We would like to thank the endorsement from the IEEE-RAS Technical Committees on:
 
 * Whole-body Control 
-* Humanoid Robotics
-* Model-Based Optimization for Robotics
+* Human Movement Understanding  
 
 
 #### Special thanks 
