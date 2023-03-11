@@ -5,10 +5,10 @@ layout: single
 classes: wide
 
 sidebar:
-  - title: "Associate Professor, Ph.D"
+  - title: "Associate Professor"
     image: /docs/assets/images/speakers/fallon.jpg 
     image_alt: "logo"
-    text: "Oxford Robotics Institute"
+    text: "[Oxford Robotics Institute](https://ori.ox.ac.uk/)"
 
 toc: false 
 collection: speakers
@@ -31,7 +31,7 @@ Sensor fusion based legged robot perception, state estimation and exoskeleton na
 ##### Abstract
 
 
-A novel control scheme for biped robots to manipulate the ZMP three-dimensionally apart from the actual ground profile is presented. It is shown that the linear inverted-pendulum-like dynamics with this scheme can represent a wider class of movements including variation of the body height. Moreover, this can also represent the motion in aerial phase. Based on this, the foot-guided controller proposed by the authors is enhanced to enable the robots to locomote on highly uneven terrains and also to seamlessly transition between walking and running without pre-planning the overall motion reference. The controller guarantees the capturability at landing and defines the motion by a time-variant state feedback, which is analytically derived from a model predictive optimization. It is verified through some computer simulations.
+To be updated.
 
  
 
