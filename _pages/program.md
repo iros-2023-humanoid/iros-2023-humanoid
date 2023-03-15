@@ -3,38 +3,34 @@ title: "Schedule"
 permalink: /program/
 ---
 
-Concerning different [time zones](https://www.worldtimebuddy.com/?qm=1&lid=8,1816670,2988507,2643743&h=1816670&date=2021-6-4&sln=9-18&hf=1), please check the **same** program in: [CEST time (GMT +2)]({{ "/program-cest/"}}){: .btn .btn--success .btn--medium} or [PDT Time]({{ "/program-pdt/"}}){: .btn .btn--success .btn--medium}. 
+<!--Concerning different [time zones](https://www.worldtimebuddy.com/?qm=1&lid=8,1816670,2988507,2643743&h=1816670&date=2021-6-4&sln=9-18&hf=1), please check the **same** program in: [CEST time (GMT +2)]({{ "/program-cest/"}}){: .btn .btn--success .btn--medium} or [PDT Time]({{ "/program-pdt/"}}){: .btn .btn--success .btn--medium}. -->
 
-| **June 4th, 2021**                                      |
+
+| **October 1st, 2023**                                      |
 | :-------------------------------------------------------------------------:|
-| **Time (GMT +8)** | **Speaker**          | **Organization** |                   **Title**                                      |
+| **Time** | **Speaker**          | **Organization** |                   **Title**                                      |
 | :-------------------------------------------------------------------------:|
 |  |**Session One:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 09:00 - 09:05    |                  |              |     Welcome                                                  |
-| 09:05 - 09:50    | [Patrick Wensing](/speakers/wensing)  | University of Notre Dame       |  [It All Matters: Considerations Across Design and Control for Contact-Savvy Robots](https://youtu.be/Gek678upj_0)                                                            |
-| 09:50 - 10:30    | [JIA Yan-Bin](/speakers/yan-bin/) | Iowa State University  | [Targeted Batting of In-flight Objects by a Robotic Arm](https://youtu.be/gZRdGIruH1c) |
-|  |**Session Two:**| | 
-| **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
+| 09:00 - 09:30 | [Tomomichi Sugihara](/zhidao)  | Omron Corporation|  Model predictive control based on 3D ZMP manipulation )                                                            |
+| 09:30 - 10:00    | [Sven Behnke](/behnke/) <br/> [Grzegorz Ficht](/speakers/ficht/)| University of Bonn | Direct Centroidal Control for Balanced Humanoid Locomotion |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
-| 10:30 - 11:15    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | [Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum](https://youtu.be/8Vmn9SBDF7s)                                                             |
-| 11:15 - 11:55    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    [The three laws of robotics subjected to unexpected external forces: <br/>estimation, rejection, and performance](https://youtu.be/oY_bdZ1Ic4k)                    |
-| 11:55 - 12:05    |  Ruoyu Xu                |  AIRs, CUHK, Shenzhen            |  Teaser Session:  [A Predictive Control Framework for Manipulator on a Disturbed Sea-Born Platform](https://youtu.be/EKbdyutrFGE) [Paper](/docs/assets/WorkshopPapers/PaperOne.pdf)
- |
-| |**Session Three:**| |
+|  **10:00 - 10:30** |  |**Coffee Break & Poster Session**|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
-| **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
+| 10:30 - 11:00    |  [Carlos Mastalli](/carlos/) |   Heriot-Watt University| Inverse-Dynamics Model Predictive Control                                                             |
+| 11:00 - 11:30    | [Bike Zhang](/bike/)| UC Berkely|    Learning Humanoid Locomotion via Transformer                    |
+| 11:30 - 12:00    |  [Luis Sentis](/sentis/)|  University of Texas at Austin |  Whole-Body Dynamic Behaviors and Control of Humanoid Robots (tentative)|
+| -----------------| -----------------|------------- | :-------------------------------------------------------------: |
+| **12:00-12:30**  |           | **Summary & Panel Discussion** |                                                         |
+| **12:30-13:30**  |           | **Lunch**          |  |                                                         |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 13:20 - 13:50    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | [Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation](https://youtu.be/clEdkBlzYDM)                                  |
-| 13:50 - 14:00    |  Richard Hartisch        |       Fraunhofer IPK   |   Teaser Session: [Co-design of Environmental Compliance for High-speed Contact Tasks](https://youtu.be/y3WJDxFg7Hg) [Paper](/docs/assets/WorkshopPapers/PaperTwo.pdf)|
-| 14:00 - 14:40    | [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | [Impact-Aware Task-Space Quadratic Programming Control](https://youtu.be/nHEcJ5nOG1g)       |
-| 14:40 - 15:20    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | [Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts](https://youtu.be/Gr9R3vDY4Vo) |
-| 15:20 - 15:30    | Niels Dehio     | CNRS-UM, LIRMM         |   Teaser Session: [Intentionally Impacting Deformable Material](https://youtu.be/dvwWWZmCxxM) [Paper](/docs/assets/WorkshopPapers/PaperThree.pdf) |
-|   |**Session Four:**| |
+| 13:30- 14:00    | [Maurice Fallon](/fallon/) | Oxford Robotics Institute | Sensor Fusion based Legged Robot Visual Perception, Navigation and State Estimation |
+| 14:00 - 14:30    | [Alphonsus Antwi Adu-Bredu](/aab/)    |  University of Michigan     |  Exploring Kinodynamic Fabrics for Fast, Reactive Whole-Body Control of Underactuated Humanoid Robots |
+| 14:30 - 15:00    | [Yan Gu](https://engineering.purdue.edu/ME/People/ptProfile?resource_id=273141)     |Purdue University | State Estimation and Control of Underactuated Humanoid Walking on a Moving Surface |
+| **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
+| 16:00 - 16:30    | [Johannes Englsberger](/johannes/)| DLR German Aerospace Center| Torque-based Dynamic Walking on Compliant and Uneven Terrain | 
+| 16:30 - 17:00    | [Serena Ivaldi](/ivaldi/)| Inria| Anticipatory Control: Using Prediction of Intended Movement for Control  |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
+| **17:00-17:30**  |           | **Summary & Panel discussion**          | 
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 15:30 - 16:15    | [Aude Billard](/speakers/billard)  | EPFL |  [Machine learning and dynamical systems for adaptive manipulation in humanoid robots](https://youtu.be/zcpFpM3DgEo)           |
-| 16:15 - 17:00    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  [High Performance Balancing on a Narrow Support](https://youtu.be/e0EM1i4xEe4)|
-| 17:00    |  [Abderrahmane Kheddar](http://jrl-umi3218.github.io/member-kheddar.html)                |      CNRS-UM, LIRMM     |   [Summary, Remarks, and Discussions](https://youtu.be/l_cJr4ISdhg)                          |
 
