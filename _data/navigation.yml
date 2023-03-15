@@ -15,7 +15,7 @@ main:
   - title: "Program"
     url: /program/
   - title: "Call for Contributions"
-    url: https://forms.gle/YTk99BmY6bynf2jD6
+    url: https://forms.gle/SjgCrnUQaPBS4Rh86
 
 
 # Sidebar options
@@ -24,7 +24,7 @@ sidebar:
   - title: "Speakers"
     url: /year-archive/
   - title: "Call for Contributions"
-    url: https://forms.gle/YTk99BmY6bynf2jD6
+    url: https://forms.gle/SjgCrnUQaPBS4Rh86
   - title: "Archive"
     url: /year-archive/
 
