@@ -13,7 +13,7 @@ permalink: /program/
 |  |**Session One:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 09:00 - 09:30 | [Tomomichi Sugihara](/zhidao)  | Omron Corporation|  Model predictive control based on 3D ZMP manipulation )                                                            |
-| 09:30 - 10:00    | [Sven Behnke](/behnke/) <br/> [Grzegorz Ficht](/speakers/ficht/)| University of Bonn | Direct Centroidal Control for Balanced Humanoid Locomotion |
+| 09:30 - 10:00    | [Sven Behnke](/behnke/) <br/> [Grzegorz Ficht](/ficht/)| University of Bonn | Direct Centroidal Control for Balanced Humanoid Locomotion |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 |  **10:00 - 10:30** |  |**Coffee Break & Poster Session**|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
