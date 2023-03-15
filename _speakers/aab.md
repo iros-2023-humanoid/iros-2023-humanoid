@@ -4,6 +4,7 @@ excerpt: "Exploring Kinodynamic Fabrics for Fast, Reactive Whole-Body Control of
 
 layout: single 
 classes: wide
+permalink: /aab/
 
 sidebar:
   - title: "Ph.D Candidate"

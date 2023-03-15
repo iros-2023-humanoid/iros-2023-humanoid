@@ -3,6 +3,7 @@ title: "Tomomichi Sugihara"
 excerpt: "Model predictive control based on 3D ZMP manipulation"
 layout: single 
 classes: wide
+permalink: /zhidao/
 
 sidebar:
   - title: "Ph.D"

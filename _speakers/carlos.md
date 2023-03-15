@@ -3,6 +3,7 @@ title: "Carlos Mastalli"
 excerpt: "Inverse-Dynamics Model Predictive Control"
 layout: single 
 classes: wide
+permalink: /carlos/
 
 sidebar:
   - title: "Assistant Professor"

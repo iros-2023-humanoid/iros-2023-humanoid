@@ -3,6 +3,7 @@ title: "Grzegorz Ficht"
 excerpt: "Direct Centroidal Control for Balanced Humanoid Locomotion"
 layout: single 
 classes: wide
+permalink: /ficht/
 
 sidebar:
   - title: "Grzegorz Ficht"

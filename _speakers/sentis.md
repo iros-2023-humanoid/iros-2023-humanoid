@@ -3,6 +3,7 @@ title: "Luis Sentis"
 excerpt: "Dynamic Locomotion for Passive-Ankle Biped Robots and Humanoids Using Whole-Body Locomotion Control"
 layout: single 
 classes: wide
+permalink: /sentis/
 
 sidebar:
   - title: "Professor"

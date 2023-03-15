@@ -3,6 +3,7 @@ title: "Maurice Fallon"
 excerpt: "Sensor fusion based legged robot perception, state estimation and exoskeleton navigation"
 layout: single 
 classes: wide
+permalink: /fallon/
 
 sidebar:
   - title: "Associate Professor"

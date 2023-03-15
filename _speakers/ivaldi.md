@@ -3,10 +3,11 @@ title: "Serena Ivaldi"
 excerpt: "Anticipatory control: using prediction of intended movement for control"
 layout: single 
 classes: wide
+permalink: /ivaldi/
 
 sidebar:
   - title: "Tenured Research Scientist"
-    image: /docs/assets/images/speakers/ivaldi.jpg 
+    image: /docs/assets/images/speakers/ivaldi.png
     image_alt: "logo"
     text: "INRIA Nancy Grand-Est and LORIA"
 

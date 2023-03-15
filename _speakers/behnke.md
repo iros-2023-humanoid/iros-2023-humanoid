@@ -3,6 +3,7 @@ title: "Sven Behnke"
 excerpt: "Direct Centroidal Control for Balanced Humanoid Locomotion"
 layout: single 
 classes: wide
+permalink: /behnke/
 
 sidebar:
   - title: "Prof. Dr. Sven Behnke"
