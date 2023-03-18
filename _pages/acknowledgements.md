@@ -12,10 +12,11 @@ We would like to thank the endorsement from the IEEE-RAS Technical Committees on
 
 * Whole-body Control 
 * Human Movement Understanding  
+* Mobile Manipulation 
 
 
 #### Special thanks 
-to the following organizations, we greatly improved the publicity via WeChat and will live stream through: 蔻享学术. 
+to the following organizations, we greatly improved the publicity via 
 
 ##### Supporting Organizations: 
 
