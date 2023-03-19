@@ -7,6 +7,13 @@ layout: single
 classes: wide
 ---
 
+####  Financial support: 
+We would like to thank the Financial support from the IEEE-RAS Technical Committee on:
+
+* Model-Based Optimization for Robotics
+
+for the posters submitted and presented at the workshop during IROS 2023.
+
 #### Endorsement: 
 We would like to thank the endorsement from the IEEE-RAS Technical Committees on:
 
@@ -14,26 +21,5 @@ We would like to thank the endorsement from the IEEE-RAS Technical Committees on
 * Human Movement Understanding  
 * Mobile Manipulation 
 
-
-#### Special thanks 
-to the following organizations, we greatly improved the publicity via 
-
-##### Supporting Organizations: 
-
-
-##### Social Media: 
-
-##### Reviewers: 
-
-We are grateful for the dedicated efforts and time from the workshop paper reviewers: 
-
-* 
-
-#####  ZOOM Presentation: 
-
-Thanks to the valuable time of 
-
-* 
-* 
 
 
