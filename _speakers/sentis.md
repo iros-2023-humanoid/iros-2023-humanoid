@@ -21,13 +21,13 @@ In Austin, he leads the Human Centered Robotics Laboratory, a laboratory focusin
 He has been awarded the NASA Elite Team Award for his contributions to NASA’s Johnson Space Center Software Robotics and Simulation Division. He is also a founding member and innovation advisor for Apptronik Systems, a company focusing on human-centered robotic products.
 
 <center style="font-size:30px">
-Dynamic Locomotion for Passive-Ankle Biped Robots and Humanoids Using Whole-Body Locomotion Control
+From Model-Based Whole-Body Control to Humanoid Legged Manipulation using Machine Learning
 </center>
 
 
 
 ##### Abstract
 
+WBC controllers have provided unique capabilities for humanoid robots such as multicontact and dynamically and kinematically consistent motion tracking for humanoid robots. In combination with trajectory optimization predictive methods, WBCs have enabled outstanding agile behaviors. However, to operate in truly unstructured environments, machine learning techniques are needed to provide humanoid legged manipulation policies that take as input the large state space given by exteroceptive sensors such as cameras and tactile sensors. In this presentation I will discuss the onset of WBCs and the current success for perceptive legged manipulation using machine learning techniques. Experiments using the DRACO 3 humanoid robot will be shown. 
 
-To be determined 
 
