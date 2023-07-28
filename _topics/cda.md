@@ -13,8 +13,13 @@ Centroidal dynamics approximation can significantly reduce the complexity of the
 
 ---
 
-Centroidal dynamics approximation (CDA) offers a solution to reduce the dimensionality of the model predictive control (MPC) problem. The classical approach approximates the motion of the robot’s center of mass (CoM) as a single point, which ignores the angular momemtum. CDA makes MPC easier and faster to solve. This can be particularly important for real-time control applications, where computation time is limited. However, CDA models, such as those in [4], capture the dynamic interactions between the robot’s linear motion and its angular momentum, which are critical for maintaining balance and stability [5]. By making MPC easier and faster to solve, CDA is particularly important for real-time control applications where computation time is limited.
+Centroidal dynamics approximation (CDA) is a powerful tool for reducing the dimensionality of the model predictive control (MPC) problem. The classical approach to MPC simplifies the robot's motion by approximating the center of mass (CoM) as a single point. This method, however, overlooks the angular momentum, a critical factor in maintaining balance and stability.
 
+On the other hand, CDA effectively captures the dynamic interactions between the robot's linear motion and its angular momentum [2]. This makes MPC less complex and quicker to solve, providing a significant advantage in real-time control applications where computation time is limited.
+
+The effective implementation of CDA has been demonstrated in the work of R. Schuller et al. [1], who used online centroidal angular momentum reference generation and motion optimization for humanoid push recovery. Moreover, G. Wiedebach et al. [2] have applied CDA in managing walking on partial footholds, including line contacts, with the humanoid robot Atlas.
+
+Our workshop will further exploit the benefits of CDA for the efficient control of legged robots, enhancing their ability to dynamically interact with their environment, maintain balance, and adapt to on-purpose impacts.
 
 
 
