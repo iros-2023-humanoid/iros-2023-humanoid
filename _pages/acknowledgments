@@ -1,6 +1,6 @@
 ---
-permalink: /acknowledgements/
-title: "Acknowledgement"
+permalink: /acknowledgments/
+title: "Acknowledgment"
 toc: false
 author_profile: true 
 layout: single 
