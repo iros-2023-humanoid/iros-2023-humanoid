@@ -1,6 +1,6 @@
 ---
 title: "Shi Fan"
-excerpt: "Reference-free Learning Bipedal Motor Skills via Assistive Force Curricula"
+excerpt: "Reference-based vs Reference-free Learning Bipedal Motor Skills via Assistive Force Curricula"
 layout: single 
 classes: wide
 permalink: /fan/
@@ -28,7 +28,7 @@ In spare time, I was fortunate to work with Erico Guizzo and Evan Ackerman as a 
 Website: [https://fanshi14.github.io/me/](https://fanshi14.github.io/me/) 
 
 <center style="font-size:30px">
-Reference-free Learning Bipedal Motor Skills via Assistive Force Curricula
+ Reference-based vs Reference-free Learning Bipedal Motor Skills via Assistive Force Curricula
 </center>
 
 
