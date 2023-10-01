@@ -28,14 +28,19 @@ In spare time, I was fortunate to work with Erico Guizzo and Evan Ackerman as a 
 Website: [https://fanshi14.github.io/me/](https://fanshi14.github.io/me/) 
 
 <center style="font-size:30px">
- Reference-based vs Reference-free Learning Bipedal Motor Skills via Assistive Force Curricula
+Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot
 </center>
 
 
 
 ##### Abstract
 
-Reinforcement learning recently shows great progress on legged robots, while bipedal robots in high dimensions but narrow solution space are still challenging to learn. The typical methods introduce the reference joints motion to guide the learning process; however, obtaining a high-quality reference trajectory is nontrivial, and imitation suffers from the local minimum. For general reference-free scenarios, the bipedal robot is discouraged by the early termination and biased sample collection. Inspired by the assistive learning commonly shown in biped animals, we introduce the assistive force to aid the learning process without the requirement of reference trajectories. The learned assistant could be a curricula to lead motor skills learning and is eliminated in the end to shape the learned motion to be plausible. We analyze the assistive system and verify its effectiveness in multiple challenging bipedal skills (Videos and supplementary materials: [https://fanshi14.github.io/me/isrr22](https://fanshi14.github.io/me/isrr22).).
+
+
+Reinforcement learning recently shows great progress on legged robots, while humanoid robots in high dimensions but narrow solution space are still challenging to learn. The typical methods introduce the reference joints motion to guide the learning process, which we called reference-based method; however, obtaining a high-quality reference trajectory is nontrivial, and imitation suffers from the local minimum. For general reference-free scenarios, the humanoid robot is discouraged by the early termination and biased sample collection. In this talk, we will introduce our recent progress in both reference-based and reference-free methods for humanoid robot. We try to compare them and provide more discussion in learning-based approach on humanoid robot control.
+
+
+
 
 
 

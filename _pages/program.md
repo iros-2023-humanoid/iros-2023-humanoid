@@ -12,9 +12,9 @@ permalink: /program/
 | :-------------------------------------------------------------------------:|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 08:15 - 08:30 | Organizers  | |                                                               |
-| 08:30 - 09:00 | [Tomomichi Sugihara](/zhidao)  | Omron Corporation|  Model predictive control based on 3D ZMP manipulation                                                             |
-| 09:00 - 09:30    | [Bike Zhang](/bike/)| UC Berkely|    Learning Humanoid Locomotion with Transformers|
-| 09:30 - 10:00    |  [Luis Sentis](/sentis/)|  University of Texas at Austin |  From Model-Based Whole-Body Control to Humanoid Legged Manipulation using Machine Learning|
+| 08:30 - 09:0 | [Tomomichi Sugihara](/zhidao/)  | OMRON Corporation|  Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot                                                             |
+| 09:00 - 09:30 | [Shi Fan <br/> Annan Tang](/fan/)  | ETH Zurich <br/> The University of Tokyo|  Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot                                                             |
+| 09:30 - 10:00    | [Bike Zhang](/bike/)| UC Berkely|    Learning Humanoid Locomotion with Transformers|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 |  **10:00 - 11:00** |  |**Coffee Break** |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
@@ -26,10 +26,10 @@ permalink: /program/
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:30 - 14:00    | [Johannes Englsberger](/johannes/)| German Aerospace Center (DLR)|Centroidal Angular Momentum Approximation and Control for humanoid locomotion| 
 | 14:00 - 14:30    | [Serena Ivaldi](/ivaldi/)| The National Institute for Research <br/>in Digital Science and Technology (INRIA)| Anticipatory Control: Using Prediction of Intended Movement for Control  |
-| 14:30 - 15:00    | [Yan Gu](/yan/)     |Purdue University | State Estimation and Control of Underactuated Humanoid Walking on a Nonstationary Surface|
+| 14:30 - 15:00    | [Yan Gu](/yan/)     |Purdue University | Modeling, estimation, and control of humanoid robot locomotion in non-inertial environments|
 | **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
-|  |**Remote session:**| |
-| 16:00 - 16:30 | [Shi Fan <br/>(Remote)](/fan/)  | ETH Zurich|  Reference-based vs Reference-free Learning Bipedal Motor Skills via Assistive Force Curricula                                                             |
+|
+| 16:00 - 16:30    |  [Luis Sentis](/sentis/)|  University of Texas at Austin |  To be determined|
 | 16:30 - 17:00    | [Alphonsus Antwi Adu-Bredu <br/>(remote)](/aab/)    |  University of Michigan     |  Exploring Kinodynamic Fabrics for Fast, Reactive Whole-Body Control of Underactuated Humanoid Robots |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **17:00-17:30**  |           | **Summary & Panel discussion**          | 
