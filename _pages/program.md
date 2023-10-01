@@ -12,7 +12,7 @@ permalink: /program/
 | :-------------------------------------------------------------------------:|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 08:15 - 08:30 | Organizers  | |                                                               |
-| 08:30 - 09:0 | [Tomomichi Sugihara](/zhidao/)  | OMRON Corporation|  Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot                                                             |
+| 08:30 - 09:00 | [Tomomichi Sugihara](/zhidao/)  | OMRON Corporation|  Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot                                                             |
 | 09:00 - 09:30 | [Shi Fan <br/> Annan Tang](/fan/)  | ETH Zurich <br/> The University of Tokyo|  Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot                                                             |
 | 09:30 - 10:00    | [Bike Zhang](/bike/)| UC Berkely|    Learning Humanoid Locomotion with Transformers|
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
