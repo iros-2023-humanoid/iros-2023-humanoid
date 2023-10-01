@@ -1,6 +1,6 @@
 ---
 title: "Luis Sentis"
-excerpt: "Dynamic Locomotion for Passive-Ankle Biped Robots and Humanoids Using Whole-Body Locomotion Control"
+excerpt: "From Model-Based Whole-Body Control to Humanoid Legged Manipulation using Machine Learning"
 layout: single 
 classes: wide
 permalink: /sentis/

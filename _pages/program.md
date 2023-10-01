@@ -29,7 +29,7 @@ permalink: /program/
 | 14:30 - 15:00    | [Yan Gu](/yan/)     |Purdue University | Modeling, estimation, and control of humanoid robot locomotion in non-inertial environments|
 | **15:00 - 16:00**|    |  **Coffee Break & Outreach Event** | 
 |
-| 16:00 - 16:30    |  [Luis Sentis](/sentis/)|  University of Texas at Austin |  To be determined|
+| 16:00 - 16:30    |  [Luis Sentis](/sentis/)|  University of Texas at Austin |  From Model-Based Whole-Body Control to Humanoid Legged Manipulation using ML|
 | 16:30 - 17:00    | [Alphonsus Antwi Adu-Bredu <br/>(remote)](/aab/)    |  University of Michigan     |  Exploring Kinodynamic Fabrics for Fast, Reactive Whole-Body Control of Underactuated Humanoid Robots |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **17:00-17:30**  |           | **Summary & Panel discussion**          | 
